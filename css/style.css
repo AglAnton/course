@@ -102,7 +102,7 @@ p {
 
 .header {
   height: 100vh;
-  background: url('../img/bg_head.png') center no-repeat #19181D;
+  /* background: url('../img/bg_head.png') center no-repeat #19181D; */
   background-size: cover;
   padding-top: 30px;
   position: relative;
@@ -204,7 +204,7 @@ section {
   background: #19181D;
 }
 .coach .content-block {
-  background: url('../img/bg-coach.png') center no-repeat #19181D;
+  /* background: url('../img/bg-coach.png') center no-repeat #19181D; */
   background-size: 100%;
 }
 .slider-coach *:focus{
@@ -266,12 +266,12 @@ section {
 }
 
 .our-mission {
-  background: url('../img/bg-mission.png') center no-repeat #19181D;
+  /* background: url('../img/bg-mission.png') center no-repeat #19181D; */
   background-size: 110%;
 }
 
 .reviews {
-  background: url('../img/bg-reviews.png') center no-repeat #19181D;
+  /* background: url('../img/bg-reviews.png') center no-repeat #19181D; */
   background-size: cover;
 }
 .review-block {
